@@ -1,6 +1,5 @@
-# Footer Tasarım Hakkında 
+# Footer Tasarım 
 
-## Html ve Css Kullanılarak Yapıldı
-
-Css te hover özelliği kullanıldı.
 Responsive tasarım anlayışında hazırlandı. Responsive uygunluğu 
+Html etiketleri kullanma css bağlantısı ile css özelliklerini kullanımı.
+Css kütüphanesi kullanımı.
